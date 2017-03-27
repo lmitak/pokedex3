@@ -12,6 +12,7 @@
 		BF40ABB61E891A1800088A56 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF40ABB41E891A1800088A56 /* Main.storyboard */; };
 		BF40ABB81E891A1800088A56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF40ABB71E891A1800088A56 /* Assets.xcassets */; };
 		BF40ABBB1E891A1800088A56 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF40ABB91E891A1800088A56 /* LaunchScreen.storyboard */; };
+		BF40ABC31E891D8C00088A56 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = BF40ABC21E891D8C00088A56 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BF40ABB71E891A1800088A56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF40ABBA1E891A1800088A56 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BF40ABBC1E891A1800088A56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF40ABC21E891D8C00088A56 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				BF40ABB21E891A1800088A56 /* ViewController.swift */,
 				BF40ABB41E891A1800088A56 /* Main.storyboard */,
 				BF40ABB71E891A1800088A56 /* Assets.xcassets */,
+				BF40ABC21E891D8C00088A56 /* pokemon.csv */,
 				BF40ABB91E891A1800088A56 /* LaunchScreen.storyboard */,
 				BF40ABBC1E891A1800088A56 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				BF40ABBB1E891A1800088A56 /* LaunchScreen.storyboard in Resources */,
 				BF40ABB81E891A1800088A56 /* Assets.xcassets in Resources */,
+				BF40ABC31E891D8C00088A56 /* pokemon.csv in Resources */,
 				BF40ABB61E891A1800088A56 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
